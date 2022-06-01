@@ -1,5 +1,5 @@
 #include<stdio.h>
-int mainn()
+int main()
 {
 	int a,b,c,d,e,r;
 	a=2;
