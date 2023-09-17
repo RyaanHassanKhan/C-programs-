@@ -17,12 +17,13 @@ int main()
 	//	p=p+1;
 	}
 
+	
 	printf("The array is_ ");
-	for(i=0;i<n;i++)
-	{
-		printf("%d  ",*p);
-		p=p+1;
-	}
+for (i = 0; i < n; i++) {
+    printf("%d  ", *p);
+    p = p + 1; // Move the pointer to the next element
+}
+
 	
 return 0; 
 }
