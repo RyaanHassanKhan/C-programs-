@@ -2,7 +2,7 @@
 void swap(int,int)
 int main()
 {
-	{int x,y;
+	int x,y;
 	int temp;
 	x=0
 	y=4
