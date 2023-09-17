@@ -1,3 +1,4 @@
+//C Program to Read and Print an Array using Pointers."
 #include<stdio.h>
 int main()
 {
